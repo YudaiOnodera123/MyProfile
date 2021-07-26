@@ -141,6 +141,17 @@ header{
     text-align: center;
 }
 
+.btn--orange{
+    color: white;
+    background-color: #eb6100;
+    width:90px;
+    border-radius: 5px;
+}
+
+.btn--orange:hover{
+    color: #eb6100;
+    background-color: white;
+}
 
 /* フッター */
 footer{
